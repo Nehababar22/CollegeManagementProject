@@ -1,7 +1,7 @@
 # CollegeManagementProject
 
-
 1] Create Models - 
+
         1. User 
         2. Department 
         3. User Profile
